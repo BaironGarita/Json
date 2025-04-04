@@ -1,13 +1,17 @@
 {
     "lideres": [
-      {
+            {
         "nombre_area": "Departamento Pastoral",
         "nombre_lider": "Luis Diego Sanchez",
-        "telefono": "+52 123 456 7890"
+        "first_text": "Somos los Líderes del ministerio, quienes buscamos que todos los hermanos trabajemos en conjunt o para lograr ganar almas para Cristo.",
+        "second_text": "Queremos cumplir esta misión guiando a los hermanos por un camino fundamentado en la palabra y en Jesucristo.",
+        "telefono": "+571234567890"
       },
       {
         "nombre_area": "Departamento Musical",
         "nombre_lider": "Erick Sanchez",
+        "first_text": "Encargados de guiar a la congregación a la presencia de Dios mediante la alabanza y adoración significativa de nuestro grupo musical.",
+        "second_text": "Buscamos lograr este cometido durante cada servicio y ensayo que dedicamos al crecimiento musical y espiritual.",
         "telefono": "+52 234 567 8901"
       },
       {
