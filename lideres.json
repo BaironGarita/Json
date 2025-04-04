@@ -1,58 +1,74 @@
 {
     "lideres": [
-            {
+      {
         "nombre_area": "Departamento Pastoral",
         "nombre_lider": "Luis Diego Sanchez",
         "first_text": "Somos los Líderes del ministerio, quienes buscamos que todos los hermanos trabajemos en conjunt o para lograr ganar almas para Cristo.",
         "second_text": "Queremos cumplir esta misión guiando a los hermanos por un camino fundamentado en la palabra y en Jesucristo.",
-        "telefono": "+571234567890"
+        "telefono": "+50687565027"
       },
       {
         "nombre_area": "Departamento Musical",
         "nombre_lider": "Erick Sanchez",
         "first_text": "Encargados de guiar a la congregación a la presencia de Dios mediante la alabanza y adoración significativa de nuestro grupo musical.",
         "second_text": "Buscamos lograr este cometido durante cada servicio y ensayo que dedicamos al crecimiento musical y espiritual.",
-        "telefono": "+52 234 567 8901"
+        "telefono": "+50686291239"
       },
       {
         "nombre_area": "Departamento Danza",
         "nombre_lider": "Nuria Alvarado",
+        "first_text": "Buscamos representar aquello que no se puede expresar en palabras o en una canción, aquello que solo el cuerpo y el arte pueden decir, para darle gloria a Dios.",
+        "second_text": "Expresamos nuestra gratitud mediante la práctica y la muestra del arte, utilizando una variedad de formas e instrumentos.",
         "telefono": "+52 345 678 9012"
       },
       {
         "nombre_area": "Departamento Intercesión",
         "nombre_lider": "Hellen Arias",
-        "telefono": "+52 456 789 0123"
+        "first_text": "Buscamos en oración la presencia de Dios, su justicia, y pedimos sabiduría para actuar conforme a su voluntad.",
+        "second_text": "Perseguimos nuestro objetivo mediante periodos de oración, ya sean previamente establecidos o espontáneos.",
+        "telefono": "+50664798020"
       },
       {
         "nombre_area": "Departamento escuela dominical",
         "nombre_lider": "Roxana Flores",
+        "first_text": "Buscamos guiar al niño en los caminos de Dios, para que al crecer reconozca a su Señor y Salvador.",
+        "second_text": "Cumplimos con esta gran tarea apoyados por cada uno de los maestros capacitados para la enseñanza de los niños de nuestra congregación.",
         "telefono": "+52 567 890 1234"
       },
       {
         "nombre_area": "Departamento servidores",
         "nombre_lider": "Alberto Herrera",
-        "telefono": "+52 123 456 7890"
+        "first_text": "Nos encargamos de que disfrutes del servicio dominical y de cada actividad, sin preocupaciones adicionales.",
+        "second_text": "Logramos este cometido gracias a cada uno de nuestros colaboradores, quienes se dedican a ayudar y servir a los hermanos de la congregación.",
+        "telefono": "+506 88519764"
       },
       {
         "nombre_area": "Departamento juvenil",
         "nombre_lider": "Xiomara Marchena, James Suarez, Cesar Bolaños",
-        "telefono": "+52 234 567 8901"
+        "first_text": "Nos dedicamos a guiar a los jóvenes, mostrándoles un camino diferente a las tendencias actuales.",
+        "second_text": "Logramos esto enseñando la Palabra y buscando respuestas a las dudas que surgen en nuestros jóvenes.",
+        "telefono": "+506 8644 9597"
       },
       {
         "nombre_area": "Departamento de Discipulado",
         "nombre_lider": "Carlos Leon",
-        "telefono": "+52 345 678 9012"
+        "first_text": "Instruimos a los nuevos creyentes en el camino para ser una nueva criatura en Cristo.",
+        "second_text": "Logramos este cometido mediante clases virtuales ya establecidas y el uso de diversos recursos, como folletos o la guía de personas maduras en la fe.",
+        "telefono": "+50662590303"
       },
       {
         "nombre_area": "Departamento Femenil",
         "nombre_lider": "Hellen Arias",
-        "telefono": "+52 456 789 0123"
+        "first_text": "Mujeres que trabajan por mujeres, apoyándose mutuamente para crecer en todas las áreas de sus vidas.",
+        "second_text": "Esto se logra a través de reuniones, llamadas o cualquier actividad que fomente el compañerismo entre las hermanas.",
+        "telefono": "+50664798020"
       },
       {
         "nombre_area": "Departamento ayuda social",
-        "nombre_lider": "Roxana Flores",
-        "telefono": "+52 567 890 1234"
+        "nombre_lider": "Luis Alvarado",
+        "first_text": "Así como ayudamos al alma, también procuramos asistir a quienes atraviesan necesidades personales.",
+        "second_text": "Este cometido se logra mediante colectas de víveres de los hermanos de la iglesia, quienes son una bendición para las personas necesitadas.",
+        "telefono": "+506 1234 5678"
       }
     ]
 }
